@@ -10,6 +10,11 @@ Namespace Controllers
             Return View(ListEmpleados)
         End Function
 
+        Function Index2() As ActionResult
+            Dim ListEmpleados As New List(Of Empleado)
+            Return View(ListEmpleados)
+        End Function
+
         ' GET: Empleado/Details/5
         Function Details(ByVal id As Integer) As ActionResult
             Return View()
