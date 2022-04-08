@@ -9,7 +9,7 @@ End Code
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Create</title>
+    <title>Nuevo Empleado</title>
 </head>
 <body>
     <script src="~/Scripts/jquery-3.4.1.min.js"></script>
